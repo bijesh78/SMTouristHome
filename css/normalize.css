@@ -1,0 +1,33 @@
+main {
+	display: block;
+}
+body {
+	margin: 0px;
+}
+a:focus {
+	outline: 0px;
+}
+a:active {
+	outline: 0px;
+}
+a:hover {
+	outline: 0px;
+}
+h1 {
+	margin: 0.67em 0px; font-size: 2em;
+}
+abbr[title] {
+	border-bottom-color: currentColor; border-bottom-width: 1px; border-bottom-style: dotted;
+}
+b {
+	font-weight: bold;
+}
+strong {
+	font-weight: bold;
+}
+img {
+	border: 0px currentColor;
+}
+table {
+	
+}
